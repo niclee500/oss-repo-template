@@ -1,8 +1,8 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Nicholas Jung
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+I like to play chess
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
