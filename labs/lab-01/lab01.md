@@ -1,7 +1,7 @@
 # Lab 01 Report - Introduction to Open Source Software
 
 joined dcord png:
-
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossdcordjoin.png
 
 One suggestion is that if possible, it may be easier to vocalize your issues in a voice call. During my time at work, I found it helpful to set up a zoom call with my peers to understand where my problem is and how to fix it. 
 
@@ -53,3 +53,4 @@ https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossscratc
 
 Discussion about open source project:
 
+After parsing through the several open source projects, I was interested in researching more about how GDB is used and programmed as an open source project. I have used GDB multiple times in my college classes - I think it would be great to understand how this is coded to help others. There is a very sophisticated code structure when it comes to GDB, since it relies on debugging C++ code. I think the most complicated thing about coding is not coding itself, but debugging one's code. The article attached which discusses GDB goes into a lot about breakpoints, symbol tables, and stack frames which is familiar to me; however, it also goes more in depth about the GDB block diagram which describes the GDB operation. Ultimately, I found that the code execution that goes into GDB was very interesting and warrants extra research into.
