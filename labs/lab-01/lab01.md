@@ -47,3 +47,9 @@ https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossregp3.
 
 p4:
 https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossregp4.png
+
+scratch game:
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossscratchgame.png
+
+Discussion about open source project:
+
