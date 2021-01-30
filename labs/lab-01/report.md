@@ -6,4 +6,7 @@ Another suggestion is that writing extensive comments is very important in under
 
 This chapter was about a previous RPI student who developed an optimized search engine and had several lawsuits filed against him because of it. The RIAA branded Jesse a pirate, despite him believing that he did nothing wrong. The RIAA demanded Jesse pays at least 15 million dollars - a price that any student couldn't afford. This was an obvious attempt at a cash grab by the RIAA, considering that the president of the RIAA makes up to a million dollars a year in salary while most song artists make as little as 50k. In my opinion, I believe that the government should crack down on these kind of lobbyists who take advantage of students who make open source software. In the end, the case against Jesse was dismised, and Jesse became an activists due to this inhumane lawsuit. I hope that Jesse works towards creating a better open source community where the RIAA may not take advantage of students who do projects like this in the future. 
 
+man tree png:
 https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/osstree.png
+
+seven practice problems:
