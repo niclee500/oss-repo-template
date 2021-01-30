@@ -14,25 +14,25 @@ man tree png:
 
 seven practice problems:
 p1:
-https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossp1.png
+![filler text](ossp1.png)
 
 p2:
-https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossp2.png
+![filler text](ossp2.png)
 
 p3:
-https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossp3.png
+![filler text](ossp3.png)
 
 p4:
-https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossp4.png
+![filler text](ossp4.png)
 
 p5:
-https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossp5.png
+![filler text](ossp5.png)
 
 p6:
-https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossp6.png
+![filler text](ossp6.png)
 
 p7:
-https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossp7.png
+![filler text](ossp7.png)
 
 4 regex problems:
 
