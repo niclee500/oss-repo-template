@@ -37,19 +37,19 @@ p7:
 4 regex problems:
 
 p1:
-https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossregp1.png
+![filler text](ossregp1.png)
 
 p2:
-https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossregp2.png
+![filler text](ossregp2.png)
 
 p3:
-https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossregp3.png
+![filler text](ossregp3.png)
 
 p4:
-https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossregp4.png
+![filler text](ossregp4.png)
 
 scratch game:
-https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossscratchgame.png
+![filler text](ossscratchgame.png)
 
 Discussion about open source project:
 
