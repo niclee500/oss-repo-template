@@ -1,5 +1,8 @@
 # Lab 01 Report - Introduction to Open Source Software
 
+joined dcord png:
+
+
 One suggestion is that if possible, it may be easier to vocalize your issues in a voice call. During my time at work, I found it helpful to set up a zoom call with my peers to understand where my problem is and how to fix it. 
 
 Another suggestion is that writing extensive comments is very important in understanding code. I find that a lot of people do not write as much comments as they need, which is a detriment to those who may want to help.
