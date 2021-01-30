@@ -1,7 +1,7 @@
 # Lab 01 Report - Introduction to Open Source Software
 
 joined dcord png:
-https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossdcordjoin.png
+![filler text](ossdcordjoin.png)
 
 One suggestion is that if possible, it may be easier to vocalize your issues in a voice call. During my time at work, I found it helpful to set up a zoom call with my peers to understand where my problem is and how to fix it. 
 
