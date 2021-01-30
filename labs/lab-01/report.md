@@ -34,3 +34,16 @@ https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossp6.png
 p7:
 https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossp7.png
 
+4 regex problems:
+
+p1:
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossregp1.png
+
+p2:
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossregp2.png
+
+p3:
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossregp3.png
+
+p4:
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-01/ossregp4.png
