@@ -10,3 +10,5 @@ https://github.com/niclee500/PullReq
 ![filler text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-02/d70ed5d78ef723d72931eafcece5c514.png)
 
 ![filler text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-02/08eb14ce737ce8a5a22836cea9c91d8d.png)
+
+https://github.com/justinchen673/OSSProjectIdeas
