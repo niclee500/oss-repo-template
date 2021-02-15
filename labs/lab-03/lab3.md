@@ -22,3 +22,56 @@ It seems as if the number of lines between whats shown on the website and whats 
 
 
 ![filler text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-03/gource.png)
+
+
+Project - Venue
+Number of Contributors - 16
+Lines of Code - 562,692
+Number of Branches - 54
+First Commit -
+
+Name: tdurkin18
+Date: October 1, 2019
+Message: “Initial commit”
+Last Commit -
+
+Name: TheStopsign
+Date: December 30, 2020
+Message: “redact numfor’s password”
+
+Project - YACS
+Number of Contributors - 18
+Lines of Code - 44,600
+First Commit -
+
+Name: jshom
+Date: Feb 25, 2020
+Message: “Initial commit”
+Last Commit -
+
+Name: marchdan
+Date: Feb 3, 2021
+Message: “Update spring 2021 csv”
+Branches:
+
+52-scheduling
+280-loadPageSpinner
+338-mobile-ui-revised
+add_vuex
+admin_panel_ui
+coursePage-recommendation
+create-pull-request/patch
+csv-fix
+dark-mode
+fixTimeSpring2021CSV
+page_for_department
+s21
+seo
+showDatabaseError
+shruti_yacs
+spring_2021_update
+subject_fail_reload
+summer2020-demo
+windows_support
+#230
+#259
