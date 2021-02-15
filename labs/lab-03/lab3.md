@@ -15,4 +15,9 @@ Last Commit: "11/15 update"
 
 All branches: master, LOGO&backGround, selenium, song_xu_patch_1, bokehapp, data_analysis_on_maps
 
+![filler text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-03/used_car_playground_website.png)
+
+It seems as if the number of lines between whats shown on the website and whats on github are different.
+
+
 ![filler text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-03/gource.png)
