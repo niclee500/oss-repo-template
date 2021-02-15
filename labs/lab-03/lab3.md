@@ -10,9 +10,9 @@ Number of contributers: 6
 
 Number of Lines of Code: 1,251,051
 
-First Commit: "Update map.r", Dec 4, 2020
+First Commit: "Update map.r", Nov 13, 2020
 
-Last Commit: "11/15 update", Nov 13, 2020
+Last Commit: "11/15 update", Dec 4, 2020
 
 All branches: master, LOGO&backGround, selenium, song_xu_patch_1, bokehapp, data_analysis_on_maps
 
