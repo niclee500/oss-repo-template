@@ -16,6 +16,8 @@ I believe it is because Android tends to have more freedom when it comes to open
 
 | Website                 | License Present | License |
 | ----------- | ----------- |-------|
-| https://github.com/rcos/Observatory      | Yes       | Two Clause BSD License |
-| https://github.com/OpenCircuits/OpenCircuits/blob/master/LICENSE   | Yes        | GNU General Public License v3.0 |
-
+| https://github.com/bparslow/990      | Yes       | GNU General Public License v3.0 |
+| https://github.com/OpenCircuits/OpenCircuits   | Yes        | GNU General Public License v3.0 |
+| https://github.com/wtg/flutter_shuttletracker | Yes | GNU Affero General Public License v3.0 |
+| https://github.com/nutntubear/insomniadialoguesystem | Yes | MIT License |
+| https://github.com/thepoly/pipeline | Yes | MIT License |
