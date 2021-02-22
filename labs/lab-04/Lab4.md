@@ -13,6 +13,8 @@ I agree with this claim, simply because it is better to get input from a larger 
 
 I believe it is because Android tends to have more freedom when it comes to open source products for its users. In the article for the Android operating system (https://en.wikipedia.org/wiki/Android_(operating_system)), it states that Android wants its users to add opinions and contribute to making their software better. This is opposed to Apple products, which lean more towards privatizing their software from the user.
 
+https://github.com/niclee500/AutomatedShopBot
+
 
 | Website                 | License Present | License |
 | ----------- | ----------- |-------|
