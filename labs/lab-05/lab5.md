@@ -57,4 +57,16 @@ Output:
 https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-05/ac18fd6c62adfec4812201d2737e0310.png
 
 
+Part 2:
 
+MakeFile:
+
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-05/Part2Makefile
+
+CMakeLists:
+
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-05/Part2CMakeLIsts.txt
+
+CMakeLists Output:
+
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-05/GeneratedMakeFile.txt
