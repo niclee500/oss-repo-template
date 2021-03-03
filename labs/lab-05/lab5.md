@@ -42,4 +42,19 @@ Command Result:
 
 https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-05/Step4output.txt
 
+Step 5:
+
+CMakeLists.txt
+
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-05/CMakeListsStep5.txt
+
+MathFunctions/CMakeLists.txt
+
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-05/CMakeLIstsMathFuncStep5.txt
+
+Output:
+
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-05/ac18fd6c62adfec4812201d2737e0310.png
+
+
 
