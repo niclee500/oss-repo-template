@@ -1,1 +1,22 @@
 
+Step 1 & 2:
+
+tutorial.cxx:
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-05/tutorialStep2.cxx
+
+CMakeLists.txt:
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-05/CMakeListsStep2.txt
+
+Command Result:
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-05/TutorialCommandPic.png
+
+Step 3:
+
+CMakeLists.txt
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-05/CMakeListsStep3.txt
+
+MathFunctions/CMakeLists.txt:
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-05/CMakeListsMathFuncStep3.txt
+
+Step 4:
+
