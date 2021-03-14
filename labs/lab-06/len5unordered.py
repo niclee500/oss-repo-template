@@ -42,11 +42,10 @@ def generate_graph(words):
     lookup = dict((c, lowercase.index(c)) for c in lowercase)
 
     def edit_distance_one(word):
-        # Generate every permutation and return all words one character away
-        for permtuple in itertools.permutations(word):
-            perm = ''.join(permtuple)
-            for i in range(len(perm)):
-                left, c, right = perm[0:i], perm[i], perm[i + 1:]
+        for word1 in itertools.permutations(word):
+            instance = ''.join(word1)
+            for i in range(len(instance)):
+                left, c, right = instance[0:i], instance[i], instance[i + 1:]
                 j = lookup[c]  # lowercase.index(c)
                 for cc in lowercase[j + 1:]:
                     yield left + cc + right
