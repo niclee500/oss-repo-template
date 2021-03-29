@@ -1,6 +1,6 @@
 Lab 7
 
-Checkpoint 1 - 
+[create an anchor](#Checkpoint-1)
 
 cmake-gui:
 
