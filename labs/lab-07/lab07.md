@@ -16,6 +16,13 @@ Checkpoint 2 -
 
 2. In the test for https://open.cdash.org/test/373642113 under this build: https://open.cdash.org/build/7129590, there is a CMake error in which the copyright.txt states that it is copyrighted from 2000 - 2021 but the current version year is 2021. Hence, the test failed. This can help debug the failure because it shows you which file is wrong and where you can fix it.
 
+3. After running, only one test had failed. This was the CMake copyright test, which is similar to the error shown above. This should not be a concerning error because it is an error in a .txt file (which should not affect build too much).
 
 ![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-07/d8e2df665aa3805cde16283d2c595e61.png)
+
+Checkpoint 3 - 
+
+Current CMake copyright error:
+
+![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-07/18844aa2c35888b7e02a2a6a618584f9%20(1).png)
 
