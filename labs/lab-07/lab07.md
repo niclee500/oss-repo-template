@@ -32,3 +32,15 @@ CMake Error at /home/jungn/git/cmake/Tests/CMakeCopyright.cmake:9 (message):
 
   but the current version year is 2021.
 ```
+CMake failure:
+
+![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-07/4917bb8f3559cf4ece52094e94dcbfec.png)
+
+Copyright.txt fix: 
+
+![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-07/c8143b9fc737d47ba9b6c07e54794a85.png)
+
+Cmake run passing on Copyright.txt:
+
+![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-07/d5524892fae14a8f5f48645febdc4452.png)
+
