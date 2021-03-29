@@ -24,5 +24,11 @@ Checkpoint 3 -
 
 Current CMake copyright error:
 
-![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-07/18844aa2c35888b7e02a2a6a618584f9%20(1).png)
+```
+CMake Error at /home/jungn/git/cmake/Tests/CMakeCopyright.cmake:9 (message):
+  Copyright.txt contains
 
+   Copyright 2000-2020 Kitware, Inc. and Contributors
+
+  but the current version year is 2021.
+```
