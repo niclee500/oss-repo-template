@@ -1,6 +1,6 @@
 Lab 7
 
-#Checkpoint 1
+# Checkpoint 1 -
 
 cmake-gui:
 
@@ -10,7 +10,7 @@ Build completed:
 
 ![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-07/341be7b72c4cbaa19297bfc57b8eff11.png)
 
-Checkpoint 2 -
+# Checkpoint 2 -
 
 1. Under either section, you can click on a build name and find out how many tests pass/fail. In the same test bucket under "View Tests summary", you can view all of the tests to see which particular tests failed. 
 
@@ -20,7 +20,7 @@ Checkpoint 2 -
 
 ![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-07/d8e2df665aa3805cde16283d2c595e61.png)
 
-Checkpoint 3 - 
+# Checkpoint 3 - 
 
 Current CMake copyright error:
 
