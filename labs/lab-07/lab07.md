@@ -48,10 +48,10 @@ Cmake run passing on Copyright.txt:
 
 Pull req:
 
-![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-07/2335b9516f0fe9db7e2dc1047327bca2%20(1).png)
+![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-07/check4pt1.png)
 
 Workflow pass:
 
-![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-07/a51fade59ee540106009d98d52211a37.png)
+![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-07/check4pt2.png)
 
 github: https://github.com/niclee500/cmake_cicd
