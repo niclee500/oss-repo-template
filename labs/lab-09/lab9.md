@@ -10,8 +10,16 @@ createCollection Screenshot
 ![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_007.png)
 
 ## Checkpoint 3
-Adding a new word and definition
+For the mongo functions, .find() gets all definitions in the json, .findOne() gets the first definition, .find({word: "Capitaland"}) finds the query for Capitaland,
+and finding by object id finds the query by objectid.
+
+Adding a new word and definition (gitdiff)
+
 ![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_002.png)
 
-Updating existing word and definition
+Updating existing word and definition (gitdiff)
+
 ![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_003.png)
+
+## Checkpoint 4
+
