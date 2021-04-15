@@ -22,4 +22,13 @@ Updating existing word and definition (gitdiff)
 ![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_003.png)
 
 ## Checkpoint 4
+Checkpoint 4 code:
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/check4.py
 
+![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_004.png)
+
+## Checkpoint 5
+Checkpoint 5 code:
+https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/checkpoint5.py
+
+![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_005.png)
