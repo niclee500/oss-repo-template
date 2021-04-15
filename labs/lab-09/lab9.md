@@ -1,5 +1,6 @@
 ## Checkpoint 0
-
+Blog post:
+https://rcos.io/projects/justinchen673/royal-flush/blog
 
 ## Checkpoint 1
 Connection passing
