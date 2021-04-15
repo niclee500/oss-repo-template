@@ -1,3 +1,4 @@
-## Checkpoint 1
+## Checkpoint 0
 
-## Checkpoint 2
+
+## Checkpoint 1
