@@ -25,10 +25,12 @@ Updating existing word and definition (gitdiff)
 Checkpoint 4 code:
 https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/check4.py
 
+checkpoint 4 python calls
 ![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_005.png)
 
 ## Checkpoint 5
 Checkpoint 5 code:
 https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/checkpoint5.py
 
+checkpoint5 output with datetime
 ![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_006.png)
