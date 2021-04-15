@@ -2,4 +2,8 @@
 
 
 ## Checkpoint 1
-![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-08/example0whale.png)
+![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_001.png)
+
+## Checkpoint 2
+
+![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_002.ng)
