@@ -6,4 +6,4 @@
 
 ## Checkpoint 2
 
-![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_002.ng)
+![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_002.png)
