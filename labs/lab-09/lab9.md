@@ -2,8 +2,9 @@
 
 
 ## Checkpoint 1
+Connection passing
 ![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_001.png)
 
 ## Checkpoint 2
-
-![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_002.png)
+createCollection Screenshot
+![alt text](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-09/Selection_007.png)
