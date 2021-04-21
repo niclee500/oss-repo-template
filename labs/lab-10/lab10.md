@@ -12,8 +12,12 @@
 ![](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-10/lab10chcek3p3.png)
 ![](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-10/lab10chcek3p4.png)
 ```
-[ 11.0651     -7.063192   -2.0725195  -4.021465  -11.097079  -23.033028
-   6.350914  -35.887474   -9.5262165 -20.52529  ]
+[ 8.489e-01 3.200e-07 6.157e-04 8.962e-05 1.129e-04
+5.979e-08 1.503e-01 2.675e-12 1.09422e-05 2.994e-09
 ```
 ![](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-10/lab10check3p5.png)
 ![](https://github.com/niclee500/oss-repo-template/blob/master/labs/lab-10/lab10check3p6.png)
+```
+[ 11.0651     -7.063192   -2.0725195  -4.021465  -11.097079  -23.033028
+   6.350914  -35.887474   -9.5262165 -20.52529  ]
+```
